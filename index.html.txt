@@ -1,0 +1,8 @@
+﻿<nav class="navbar"> 
+  <ul> 
+    <li id="brand"><a href="#home" class="nav-link">Chris</a></li> <li><a href="#contact" class="nav-link">Contact</a></li> <li><a href="#about" class="nav-link">About</a></li> 
+  </ul>
+</nav> 
+<header id="home"> 
+  <h1 class="header-tag">Nice to Meet You!</h1> 
+  <h3 class="header-tag">I'm the <i>CSS</i> to your <i>HTML</i></h3> </header>
