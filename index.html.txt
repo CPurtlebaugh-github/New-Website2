@@ -1,0 +1,11 @@
+﻿1. <nav class="navbar">
+2.   <ul>
+3.     <li id="brand"><a href="#home" class="nav-link">Justin Ahmann</a></li>
+4.     <li><a href="#contact" class="nav-link">Contact</a></li>
+5.     <li><a href="#about" class="nav-link">About</a></li>
+6.   </ul>
+7. </nav>
+8. <header id="home">
+9.   <h1 class="header-tag">Nice to Meet You!</h1>
+10.   <h3 class="header-tag">I'm the <i>CSS</i> to your <i>Html</i></h3>
+11. </header>
